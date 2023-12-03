@@ -1,8 +1,8 @@
-# project_v2.py
 import cv2
 import numpy as np
 import socket
 import pickle
+import time
 from cvzone.HandTrackingModule import HandDetector
 
 # Dimensions
@@ -46,6 +46,11 @@ while True:
 
         # Capture the screen if V gesture is made
         if hand_gesture_captured and lmList[8][1] > lmList[12][1]:
+	   # 5-second countdown function
+            for i in range(5, 0, -1):
+                print(f"Capturing in {i} seconds...")
+                time.sleep(1)
+
             img_name = f"captured_image_{img_counter}.png"
             cv2.imwrite(img_name, img)
             print(f"{img_name} saved")
