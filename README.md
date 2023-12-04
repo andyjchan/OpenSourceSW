@@ -1,7 +1,7 @@
 # Hand Gesture Recognition Photo Capture Program with OpenCV
 
 ## Overview
-This program, developed by Gachon University's Open Source SW team (신정현, 안제찬, 이시영, 정성경), captures a photo when it recognizes a hand marked with a "V" gesture using OpenCV.
+This program, developed by Gachon University's Open Source SW team (정성경, 신정현, 안제찬, 이시영), captures a photo when it recognizes a hand marked with a "V" gesture using OpenCV.
 
 ### Key Points
 1. Allows for capturing photos with a tripod without the need for setting a timer.
