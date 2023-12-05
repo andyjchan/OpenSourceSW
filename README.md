@@ -38,5 +38,7 @@ This program, developed by Gachon University's Open Source SW team (정성경, �
    - Press the 'q' key on the keyboard to end the program.
 
 ## Results
-[Attach screenshots or captured images of the program in action.]
-
+- Demo Video
+[Demo Video](https://github.com/bibleme/OpenSourceSW/assets/133957576/0f099c33-d2a7-4a13-b119-ee19fbb4c319)https://github.com/bibleme/OpenSourceSW/assets/133957576/0f099c33-d2a7-4a13-b119-ee19fbb4c319
+- captured_image_0.png
+![captured_image_0.png](https://github.com/bibleme/OpenSourceSW/assets/133957576/27524d32-a5a0-47f3-84b1-a13de9c032a5)
